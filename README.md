@@ -19,3 +19,7 @@ Pada saat user pertama kali masuk ke website, user berada pada halaman index dim
 Pada halaman tambah & edit data terdapat field yang harus diisi oleh user sesuai dengan kolom-kolom yang terdapat pada tabel Pasien, untuk menyelesaikan penambahan/pengeditan data user dapat menekan tombol yang terdapat di bawah form ("submit" untuk penambahan, "edit" untuk pengeditan).
 
 # Dokumentasi
+
+
+https://github.com/FRQNC/LP11DPBO2024C1/assets/53359844/1c563349-38cd-4da3-9749-a5e8660ae41a
+
